@@ -1,0 +1,8 @@
+# Ignore datasets directory
+BTTAIxNYBG-test/
+BTTAIxNYBG-train/
+BTTAIxNYBG-validation/
+
+# Ignore large data files
+*.csv
+*.zip
